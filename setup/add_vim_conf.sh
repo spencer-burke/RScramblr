@@ -1,0 +1,3 @@
+#!/bin/bash
+
+# code to configure vim(STILL FIGURING THIS ONE OUT AS THE VIM CONFIG IS BEING WORKED ON)
